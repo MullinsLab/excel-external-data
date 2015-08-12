@@ -1,0 +1,3 @@
+#!/bin/bash
+base=$(dirname $0)
+(cd $base/external-data-blank/; zip -r ../external-data-blank.xlsx *)
